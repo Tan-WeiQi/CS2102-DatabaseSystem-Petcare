@@ -1,0 +1,57 @@
+html, body {
+    height: 100%
+}
+body {
+    font-family: sans-serif;
+    font-size: 15pt;
+    margin: 0px;
+    padding: 0px;
+	background-image: url("http://images.unsplash.com/photo-1522276498395-f4f68f7f8454?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9");
+}
+
+* {box-sizing: border-box}
+
+/* Full-width input fields */
+input[type=text], input[type=password], input[type=email] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus, input[type=email]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+header {
+    font-family: arial, sans-serif;
+    font-size: 20pt;
+    text-align:center;
+}
+
+button {
+    width: 150px;
+    margin: 0 auto;
+}
+submission {
+  text-align: center;
+  }
+
+.signup {
+    width: 50%;
+    border: 2px solid white;
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+	opacity: 0.9;
+	
+}
+
+.nextbtn {
+   font-family: inherit;
+    border-radius: 12px;
+    background-color: #f1f1f1;
+}

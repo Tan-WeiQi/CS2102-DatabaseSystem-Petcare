@@ -1,0 +1,44 @@
+div {
+    font-size: 15pt;
+    width: 150px;
+    margin: 0 auto;
+}
+submission {
+  text-align: center;
+  }
+}
+
+head {
+    font-family: arial, sans-serif;
+    font-size: 20pt;
+    text-align:center;
+}
+header {
+     font-family: arial, sans-serif;
+    font-size: 20pt;
+    text-align:center;
+}
+
+.nextbtn {
+   font-family: inherit;
+    border-radius: 12px;
+    background-color: #f1f1f1;
+}
+
+.signup {
+    width: 30%;
+    border: 2px solid #f1f1f1;
+    padding: 10px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: white;
+	opacity: 0.7;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 15pt;
+    margin: 0px;
+    padding: 0px;
+	background-image: url("http://images.unsplash.com/photo-1522276498395-f4f68f7f8454?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9");
+}
